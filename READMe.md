@@ -16,25 +16,25 @@ Packaged as a Docker image, this project enables rapid deployment on any platfor
 🌟 Key Features
 Customer Features
 
-✅ Sign Up / Sign In with secure authentication
+i.Sign Up / Sign In with secure authentication
 
-✅ Password reset functionality
+ii. Password reset functionality
 
-✅ Search and browse products easily
+iii. Search and browse products easily
 
-✅ Add products to cart and manage items
+iv. Add products to cart and manage items
 
-✅ Payment gateway integration for secure transactions
+v. Payment gateway integration for secure transactions
 
 Admin Features
 
-✅ Product management: Add, edit, or delete products
+i. Product management: Add, edit, or delete products
 
-✅ Stock management: Monitor and update inventory levels
+ii. Stock management: Monitor and update inventory levels
 
-✅ Order management: Update order status (Processing, Shipped, Delivered)
+iii. Order management: Update order status (Processing, Shipped, Delivered)
 
-✅ View customer orders and basic analytics
+iv. View customer orders and basic analytics
 
 Technical Features
 
